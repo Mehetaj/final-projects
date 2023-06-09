@@ -1,0 +1,29 @@
+[
+    {
+        "img": "https://i.ibb.co/gytBw9V/Rectangle-15.png",
+        "name": "Karina Islam",
+        "type": "BTP - Senior Physiotherapist",
+        "ratings": 5,
+        "location": "Mirpur, Dhaka, Bangladesh",
+        "time": "Available on Per Monday and Tuesday",
+        "pay": 15
+    },
+    {
+        "img": "https://i.ibb.co/nQCF3qT/Rectangle-15-1.png",
+        "name": "Jhankar Mahbub",
+        "type": "Chemical Specialist",
+        "rating": 5,
+        "location": "Dhanmondi, Dhaka, Bangladesh",
+        "time": "Available on Per Monday and Tuesday",
+        "pay": 15
+    },
+    {
+        "img": "https://i.ibb.co/0XHLXBR/Rectangle-15-2.png",
+        "name": "Shafia Rahman Chowdhary",
+        "type": "MBBS - Throat , nose, ear",
+        "rating": 5,
+        "location": "Mirpur, Dhaka, Bangladesh",
+        "time": "Available on Per Monday and Tuesday",
+        "pay": 15
+    }
+]

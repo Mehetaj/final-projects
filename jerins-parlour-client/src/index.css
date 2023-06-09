@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navlinks>a {
+    margin-right: 40px;
+    color: gray;
+}
+
+.active {
+    color: black;
+    font-weight: 600;
+}
+
+.inactive{
+    color: gray;
+}
+
+.btnp {
+    background-color: #F73E7B;
+    border-radius: 5px;
+    padding: 10px 30px;
+    height: 45px;
+    color: white;
+    font-size: 18px;
+}

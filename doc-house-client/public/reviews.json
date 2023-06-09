@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/1670513031775Jhankar-Mahbub.png",
+        "name": "Jhankar Mahbub",
+        "prof": "CEO of PH",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    },
+    {
+        "img": "https://media.licdn.com/dms/image/D4D03AQGvth9I0-4rzg/profile-displayphoto-shrink_800_800/0/1680666695158?e=2147483647&v=beta&t=dRW1LpCxkdsjTlZwpMMD-_cQcBuPdCkJ8Vo8nNYqU5Y",
+        "name": "Hasin Haydar",
+        "prof": "Wordpress Developer",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    },
+    {
+        "img": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/1670511397745MD-GIAS-UDDIN.png",
+        "name": "Gias Uddin ",
+        "prof": "Senior Web Instructor",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    },
+    {
+        "img": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=640&q=75",
+        "name": "Sumit Shah",
+        "prof": "Sr. ML Engineer",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    },
+    {
+        "img": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/1670514423957image-removebg-preview%20%2822%29%201.png",
+        "name": "Karina Islam",
+        "prof": "Advisor PH",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    },
+    {
+        "img": "https://media.licdn.com/dms/image/C5603AQECb8HFBDNXRw/profile-displayphoto-shrink_800_800/0/1641607695089?e=1690416000&v=beta&t=jp9WathVhkN9FZUJNzL31jRo_PxSY8nz5A0HT0hA_3I",
+        "name": "HM Nayeem",
+        "prof": "Full stack Developer",
+        "says": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknow printer tool a galley of type and scrambled it to make type specimen book has survived not only five centurines."
+    }
+]

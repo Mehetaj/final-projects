@@ -1,0 +1,194 @@
+[
+    {   
+        "id": "1",
+        "title": "Electro  Gastrology Therapy",
+        "img": "https://i.ibb.co/YQCkQgd/Rectangle-20078.png",
+        "type": "cavity protection",
+        "demoPic": "https://i.ibb.co/HB6Pxzg/Rectangle-10.png",
+        "name": "Dr. Karina Islam",
+        "graduatedOn": "MBBS, MD- General Medicine",
+        "ratings": 4,
+        "location": "Dhanmondi, Dhaka, Bangladesh",
+        "whatDo1": "Dental Filling",
+        "whatDo2": "Teeth Whitneing",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "eduaction": {
+            "one": {
+                "versity": "DMC",
+                "do": "BDS",
+                "from": "1998 - 2003"
+            },
+            "two": {
+                "versity": "HTM",
+                "do": "MDS",
+                "from": "2003 - 2005"
+            }
+        },
+        "exp": {
+            "one": {
+                "where": "Smart Doc",
+                "when": "2010-present (4years)"
+            },
+            "two": {
+                "where": "Smart Medical",
+                "when": "2007 - 2010 (3years)"
+            },
+            "three": {
+                "where": "Smile Dental care",
+                "when": "2005 - 2007 (2years)"
+            }
+        },
+        "services": [
+            "Tooth Cleaning",
+            "Root Canal",
+            "Implants",
+            "Composite Bonding"
+        ],
+        "award": {
+            "one": {
+                "when": "June 2020",
+                "what": "Humanitarian Award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "two": {
+                "when": "March 2011",
+                "what": "Certificate for International Volunteer Service",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "three": {
+                "when": "May 2017",
+                "what": "The Dental Proffesional of the year Award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            }
+        },
+        "specialIn": ["Children Care", "Dental Care", "Orthodist", "Periodonist"]
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/y0vhKB9/Your-Easton-PA-Dentist.jpg",
+        "type": "oral surgery",
+        "title": "Doctor of Dental Surgery",
+        "demoPic": "https://i.ibb.co/HB6Pxzg/Rectangle-10.png",
+        "name": "Dr. Abul Matin",
+        "graduatedOn": "MBBS,Marks Dental College",
+        "ratings": 4,
+        "location": "Mirpur-14, Dhaka, Bangladesh",
+        "whatDo1": "root canel",
+        "whatDo2": "repairing fractured teeth",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "eduaction": {
+            "one": {
+                "versity": "DMC",
+                "do": "BDS",
+                "from": "1998 - 2003"
+            },
+            "two": {
+                "versity": "HTM",
+                "do": "MDS",
+                "from": "2003 - 2005"
+            }
+        },
+        "exp": {
+            "one": {
+                "where": "Smart clinic",
+                "when": "2015-present (4years)"
+            },
+            "two": {
+                "where": "pepsodent teeth care",
+                "when": "2017 - present (6years)"
+            },
+            "three": {
+                "where": "mediplus teeth care",
+                "when": "2019-present (4years)"
+            }
+        },
+        "services": [
+            "repairing fractured teeth",
+            "oral health care",
+            "root canel",
+            "fill cavities"
+        ],
+        "award": {
+            "one": {
+                "when": "June 2023",
+                "what": "Gold Medal Award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "two": {
+                "when": "March 2021",
+                "what": "humanitirian award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "three": {
+                "when": "May 2017",
+                "what": "i am the best dental prefessional",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            }
+        },
+        "specialIn": ["Children Care", "Dental Care", "Orthodist", "Periodonist"]
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/0D1FHJ6/,male-dentist-doctor-dental-clinic-portrait-male-dentist-doctor-dental-clinic-portrait-happy-dentistr.webp",
+        "title": "Surgoen Of ROOT Canal",
+        "type": "cosmetic dentisty",
+        "demoPic": "https://i.ibb.co/HB6Pxzg/Rectangle-10.png",
+        "name": "Dr. Almas Fatin",
+        "graduatedOn": "BDS, Dhaka Dental College",
+        "ratings": 4,
+        "location": "Mirpur-10 - circle, Dhaka, Bangladesh",
+        "whatDo1": "Teeth Fall",
+        "whatDo2": "Teeth Wash",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "eduaction": {
+            "one": {
+                "versity": "DMC",
+                "do": "BDS",
+                "from": "1998 - 2003"
+            },
+            "two": {
+                "versity": "HTM",
+                "do": "MDS",
+                "from": "2003 - 2005"
+            }
+        },
+        "exp": {
+            "one": {
+                "where": "Vai Vai Clinic",
+                "when": "2019-present (4years)"
+            },
+            "two": {
+                "where": "Smart Medical",
+                "when": "2007 - 2019 (12years)"
+            },
+            "three": {
+                "where": "Smile Dental care",
+                "when": "2005 - 2007 (2years)"
+            }
+        },
+        "services": [
+            "Tooth Cleaning",
+            "Root Canal",
+            "Implants",
+            "Composite Bonding"
+        ],
+        "award": {
+            "one": {
+                "when": "June 2020",
+                "what": "Humanitarian Award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "two": {
+                "when": "March 2011",
+                "what": "Certificate for International Volunteer Service",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            },
+            "three": {
+                "when": "May 2017",
+                "what": "The Dental Proffesional of the year Award",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus.Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            }
+        },
+        "specialIn": ["Children Care", "Dental Care", "Orthodist", "Periodonist"]
+    }
+]

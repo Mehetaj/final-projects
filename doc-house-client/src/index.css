@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btnp{
+    background-color: #F7A582;
+    margin-top: 20px;
+    padding: 12px 20px;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+.foot-txt p {
+    margin-top: 10px;
+}
